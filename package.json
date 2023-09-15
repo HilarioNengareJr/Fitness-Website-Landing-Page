@@ -1,0 +1,23 @@
+{
+  "name": "ifit",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://HilarioNengareJr.github.io/i-fit",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-ionicons": "^4.2.1",
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
