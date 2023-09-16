@@ -13,41 +13,25 @@ This is the frontend implementation of a fitness website.
 
 ## Installation
 
-To set up the iFit frontend on your local machine, follow these steps:
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-1. [Clone the repository](#) to your local machine.
-2. [Install Node.js and npm](#) if they are not already installed on your system.
-3. Navigate to the project directory and run the following command to install dependencies:
+### Run Locally
 
-   ```
-   npm install
-   ```
+To run **i-fit** locally, run this command on your git bash:
 
-4. [Additional installation steps, if any]
+Linux and macOS:
 
-## Usage
-
-To start the development server and view the website, use the following command:
-
-```
-npm start
+```bash
+sudo git clone https://github.com/HilarioNengareJr/ifit.git
 ```
 
-The website will be accessible at [http://localhost:3000](http://localhost:3000).
+Windows:
 
-## Contributing
+```bash
+git clone https://github.com/HilarioNengareJr/ifit.git
+```
 
-If you'd like to contribute to the development of the iFit website frontend, please follow these guidelines:
+### Contact
 
-1. Fork the repository and create a new branch for your feature or bug fix.
-2. Make your changes and ensure the code follows the project's coding standards.
-3. Write tests if applicable.
-4. Submit a pull request with a clear description of your changes.
+If you want to contact, you can reach me at [gmail](hnengare@gmail.com).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-For more information about iFit, visit [our website](https://www.ifit.com).
