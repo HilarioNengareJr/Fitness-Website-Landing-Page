@@ -6,6 +6,7 @@ import Video from './components/Video';
 import Class from './components/Class';
 import Blog from './components/Blog';
 import Footer from './components/Footer';
+import Backtop from './components/Backtop';
 import './App.css';
 
 
@@ -20,6 +21,7 @@ class App extends Component {
         <Class />
         <Blog />
         <Footer />
+        <Backtop />
       </React.Fragment>
     );
   }

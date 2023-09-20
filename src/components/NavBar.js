@@ -46,7 +46,6 @@ const NavBar = () => {
                             title={'Close'}
                             height="30px"
                             width="30px"
-                            name="close-sharp"
                             aria-hidden="true"
                             role="img"
                             className="md hydrated"
