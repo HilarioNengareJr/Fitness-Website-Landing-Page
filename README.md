@@ -1,4 +1,4 @@
-# iFit Website Frontend
+# Fitness Website Frontend
 
 ## Introduction
 
